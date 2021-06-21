@@ -12,4 +12,4 @@ Here some help about commands for checking, what i did to run tests:
 
 **(env) pytest -v --tb=line --language=en -m need_review**  -- for starting tests
 
-On my computer i have this result: 16 passed, 13 deselected, 1 xfailed
+On my computer i have this result: 4 passed, 13 deselected
