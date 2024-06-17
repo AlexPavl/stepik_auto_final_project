@@ -19,3 +19,10 @@ def browser(request):
         raise pytest.UsageError("--language value must be set")
     yield browser
     browser.quit()
+
+
+
+
+
+
+    
